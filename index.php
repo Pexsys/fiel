@@ -16,56 +16,56 @@
     <title>Thema Admin Boostrap Template</title>
 
     <!-- Start Global plugin css -->
-    <link href="../../assets/css/global-plugins.css" rel="stylesheet">
-    <link href="../../assets/vendors/jquery-icheck/skins/all.css" rel="stylesheet" />
-    <!-- <link href="../../assets/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
-    <!-- <link href="../../assets/css/bootstrap-reset.css" rel="stylesheet"> -->
-    <!-- <link href="../../assets/vendors/font-awesome/css/font-awesome.css" rel="stylesheet"> -->
-    <!-- <link href="../../assets/vendors/pe-icon-7-stroke/css/pe-icon-7-stroke.css" rel="stylesheet" /> -->
-    <!-- <link href="../../assets/vendors/pe-icon-7-stroke/css/helper.css" rel="stylesheet"/> -->
-    <!-- <link href="../../assets/vendors/jquery-notific8/jquery.notific8.css" rel="stylesheet"> -->
-    <!-- <link href="../../assets/vendors/line-icons/line-icons.css" rel="stylesheet" /> -->
-    <!-- <link href="../../assets/vendors/jquery-ui/jquery-ui.min.css" rel="stylesheet"> -->
-    <!-- <link href="../../assets/vendors/dropdowns-enhancement/css/dropdowns-enhancement.css" rel="stylesheet"> -->
-    <!-- <link href="../../assets/vendors/hover/hover.css" rel="stylesheet"> -->
-    <!-- <link href="../../assets/vendors/animate/animate.css" rel="stylesheet"> -->
-    <!-- <link href="../../assets/vendors/tooltipster/css/tooltipster.css" rel="stylesheet" type="text/css" /> -->
-    <!-- <link href="../../assets/vendors/tooltipster/css/themes/tooltipster-light.css" rel="stylesheet" type="text/css" /> -->
-    <!-- <link href="../../assets/vendors/tooltipster/css/themes/tooltipster-noir.css" rel="stylesheet" type="text/css" /> -->
-    <!-- <link href="../../assets/vendors/tooltipster/css/themes/tooltipster-punk.css" rel="stylesheet" type="text/css" /> -->
-    <!-- <link href="../../assets/vendors/tooltipster/css/themes/tooltipster-shadow.css" rel="stylesheet" type="text/css" /> -->
-    <!-- <link href="../../assets/vendors/perfect-scrollbar/css/perfect-scrollbar.min.css" rel="stylesheet" /> -->
+    <link href="../assets/css/global-plugins.css" rel="stylesheet">
+    <link href="../assets/vendors/jquery-icheck/skins/all.css" rel="stylesheet" />
+    <!-- <link href="../assets/vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- <link href="../assets/css/bootstrap-reset.css" rel="stylesheet"> -->
+    <!-- <link href="../assets/vendors/font-awesome/css/font-awesome.css" rel="stylesheet"> -->
+    <!-- <link href="../assets/vendors/pe-icon-7-stroke/css/pe-icon-7-stroke.css" rel="stylesheet" /> -->
+    <!-- <link href="../assets/vendors/pe-icon-7-stroke/css/helper.css" rel="stylesheet"/> -->
+    <!-- <link href="../assets/vendors/jquery-notific8/jquery.notific8.css" rel="stylesheet"> -->
+    <!-- <link href="../assets/vendors/line-icons/line-icons.css" rel="stylesheet" /> -->
+    <!-- <link href="../assets/vendors/jquery-ui/jquery-ui.min.css" rel="stylesheet"> -->
+    <!-- <link href="../assets/vendors/dropdowns-enhancement/css/dropdowns-enhancement.css" rel="stylesheet"> -->
+    <!-- <link href="../assets/vendors/hover/hover.css" rel="stylesheet"> -->
+    <!-- <link href="../assets/vendors/animate/animate.css" rel="stylesheet"> -->
+    <!-- <link href="../assets/vendors/tooltipster/css/tooltipster.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="../assets/vendors/tooltipster/css/themes/tooltipster-light.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="../assets/vendors/tooltipster/css/themes/tooltipster-noir.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="../assets/vendors/tooltipster/css/themes/tooltipster-punk.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="../assets/vendors/tooltipster/css/themes/tooltipster-shadow.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="../assets/vendors/perfect-scrollbar/css/perfect-scrollbar.min.css" rel="stylesheet" /> -->
     <!-- End Global plugin css -->
     
 
     <!-- This page plugin css start -->
-    <link href="../../assets/vendors/maps/css/jquery-jvectormap-2.0.1.css" rel="stylesheet" type="text/css"/>
-    <link href="../../assets/vendors/morris-chart/morris.css" rel="stylesheet" >
-    <link href="../../assets/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
-    <link href="../../assets/vendors/jquery-ricksaw-chart/css/rickshaw.css" rel="stylesheet"/>
-    <link href="../../assets/css/flot-chart.css" rel="stylesheet"/>
+    <link href="../assets/vendors/maps/css/jquery-jvectormap-2.0.1.css" rel="stylesheet" type="text/css"/>
+    <link href="../assets/vendors/morris-chart/morris.css" rel="stylesheet" >
+    <link href="../assets/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
+    <link href="../assets/vendors/jquery-ricksaw-chart/css/rickshaw.css" rel="stylesheet"/>
+    <link href="../assets/css/flot-chart.css" rel="stylesheet"/>
     <!-- This page plugin css end -->
 
     <!-- Custom styles for this template -->
-    <link href="../../assets/css/theme.css" rel="stylesheet">
-    <link href="../../assets/css/style-responsive.css" rel="stylesheet"/>
-    <link href="../../assets/css/class-helpers.css" rel="stylesheet"/>
+    <link href="../assets/css/theme.css" rel="stylesheet">
+    <link href="../assets/css/style-responsive.css" rel="stylesheet"/>
+    <link href="../assets/css/class-helpers.css" rel="stylesheet"/>
 
     <!--Color schemes-->
-    <link href="../../assets/css/colors/green.css" rel="stylesheet">
-    <link href="../../assets/css/colors/turquoise.css" rel="stylesheet">
-    <link href="../../assets/css/colors/blue.css" rel="stylesheet">
-    <link href="../../assets/css/colors/amethyst.css" rel="stylesheet">
-    <link href="../../assets/css/colors/cloud.css" rel="stylesheet">
-    <link href="../../assets/css/colors/sun-flower.css" rel="stylesheet">
-    <link href="../../assets/css/colors/carrot.css" rel="stylesheet">
-    <link href="../../assets/css/colors/alizarin.css" rel="stylesheet">
-    <link href="../../assets/css/colors/concrete.css" rel="stylesheet">
-    <link href="../../assets/css/colors/wet-asphalt.css" rel="stylesheet">
+    <link href="../assets/css/colors/green.css" rel="stylesheet">
+    <link href="../assets/css/colors/turquoise.css" rel="stylesheet">
+    <link href="../assets/css/colors/blue.css" rel="stylesheet">
+    <link href="../assets/css/colors/amethyst.css" rel="stylesheet">
+    <link href="../assets/css/colors/cloud.css" rel="stylesheet">
+    <link href="../assets/css/colors/sun-flower.css" rel="stylesheet">
+    <link href="../assets/css/colors/carrot.css" rel="stylesheet">
+    <link href="../assets/css/colors/alizarin.css" rel="stylesheet">
+    <link href="../assets/css/colors/concrete.css" rel="stylesheet">
+    <link href="../assets/css/colors/wet-asphalt.css" rel="stylesheet">
 
     <!--Fonts-->
-    <link href="../../assets/fonts/Indie-Flower/indie-flower.css" rel="stylesheet" />
-    <link href="../../assets/fonts/Open-Sans/open-sans.css?family=Open+Sans:300,400,700" rel="stylesheet" />
+    <link href="../assets/fonts/Indie-Flower/indie-flower.css" rel="stylesheet" />
+    <link href="../assets/fonts/Open-Sans/open-sans.css?family=Open+Sans:300,400,700" rel="stylesheet" />
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]>
@@ -230,7 +230,7 @@
                             <li>
                                 <a class="hvr-bounce-to-right">
                                     <span class="image">
-                                        <img src="../../assets/images/profile.jpg" alt="Profile Image" />
+                                        <img src="../assets/images/profile.jpg" alt="Profile Image" />
                                     </span>
                                     <span>
                                         <span>John Smith</span>
@@ -244,7 +244,7 @@
                             <li>
                                 <a class="hvr-bounce-to-right">
                                     <span class="image">
-                                        <img src="../../assets/images/profile.jpg" alt="Profile Image" />
+                                        <img src="../assets/images/profile.jpg" alt="Profile Image" />
                                     </span>
                                     <span>
                                         <span>John Smith</span>
@@ -258,7 +258,7 @@
                             <li>
                                 <a class="hvr-bounce-to-right">
                                     <span class="image">
-                                        <img src="../../assets/images/profile.jpg" alt="Profile Image" />
+                                        <img src="../assets/images/profile.jpg" alt="Profile Image" />
                                     </span>
                                     <span>
                                         <span>John Smith</span>
@@ -272,7 +272,7 @@
                             <li>
                                 <a class="hvr-bounce-to-right">
                                     <span class="image">
-                                        <img src="../../assets/images/profile.jpg" alt="Profile Image" />
+                                        <img src="../assets/images/profile.jpg" alt="Profile Image" />
                                     </span>
                                     <span>
                                         <span>John Smith</span>
@@ -296,7 +296,7 @@
 
                     <li class="dropdown">
                         <a href="javascript:void(0);" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                            <img src="../../assets/images/profile.jpg" alt="image">John Doe
+                            <img src="../assets/images/profile.jpg" alt="image">John Doe
                             <span class=" fa fa-angle-down"></span>
                         </a>
                         <ul class="dropdown-menu dropdown-usermenu animated fadeInUp pull-right">
@@ -352,7 +352,7 @@
                             <div class="profile-main">
                                 <p class="text-right profile-options"><i class="profile-options-open icon-options-vertical fa-2x"></i></p>
                                 <p class="image">
-                                    <img alt="image" src="../../assets/images/profile.jpg" width="80">
+                                    <img alt="image" src="../assets/images/profile.jpg" width="80">
                                     <span class="status"><i class="fa fa-circle text-success"></i></span>
                                 </p>
                                 <p>
@@ -1016,7 +1016,7 @@
                              
                                                         <div class="pull-left thumbnail-hover margin-left-28">
                                                             <div class="overflow-hidden">
-                                                                <img src="../../assets/images/users/img3.jpg" width="80" alt="image"/>
+                                                                <img src="../assets/images/users/img3.jpg" width="80" alt="image"/>
                                                             </div>
                                                         </div>
                                                         <div class="media-body">
@@ -1030,7 +1030,7 @@
                                                        
                                                         <div class="pull-left thumbnail-hover margin-left-28">
                                                             <div class="overflow-hidden">
-                                                                <img src="../../assets/images/users/img2.jpg" width="80" alt="image"/>
+                                                                <img src="../assets/images/users/img2.jpg" width="80" alt="image"/>
                                                             </div>
                                                         </div>
                                                         
@@ -1044,7 +1044,7 @@
                                                     <li class="media event">
                                                         <div class="pull-left thumbnail-hover margin-left-28">
                                                             <div class="overflow-hidden">
-                                                                <img src="../../assets/images/users/img2.jpg" width="80" alt="image"/>
+                                                                <img src="../assets/images/users/img2.jpg" width="80" alt="image"/>
                                                             </div>
                                                         </div>
                                                         <div class="media-body">
@@ -1057,7 +1057,7 @@
                                                     <li class="media event">
                                                         <div class="pull-left thumbnail-hover margin-left-28">
                                                             <div class="overflow-hidden">
-                                                                <img src="../../assets/images/users/img3.jpg" width="80" alt="image"/>
+                                                                <img src="../assets/images/users/img3.jpg" width="80" alt="image"/>
                                                             </div>
                                                         </div>
                                                         <div class="media-body">
@@ -1070,7 +1070,7 @@
                                                     <li class="media event">
                                                         <div class="pull-left thumbnail-hover margin-left-28">
                                                             <div class="overflow-hidden">
-                                                                <img src="../../assets/images/users/img3.jpg" width="80" alt="image"/>
+                                                                <img src="../assets/images/users/img3.jpg" width="80" alt="image"/>
                                                             </div>
                                                         </div>
                                                         <div class="media-body">
@@ -1308,7 +1308,7 @@
                                             <ul class="chat-msg-list padding-left-20 padding-right-20 padding-top-20">
                                                 <li class="clearfix even">
                                                     <div class="chat-avatar">
-                                                        <img src="../../assets/images/users/img4.jpg" alt="male" width="43">
+                                                        <img src="../assets/images/users/img4.jpg" alt="male" width="43">
                                                         
                                                     </div>
                                                     <div class="conversation-text">
@@ -1325,7 +1325,7 @@
                                                 </li>
                                                 <li class="clearfix odd">
                                                     <div class="chat-avatar">
-                                                        <img src="../../assets/images/users/img3.jpg" alt="female" width="43">
+                                                        <img src="../assets/images/users/img3.jpg" alt="female" width="43">
                                                     </div>
                                                     <div class="conversation-text">
                                                         <div class="msg-text">
@@ -1341,7 +1341,7 @@
                                                 </li>
                                                 <li class="clearfix even">
                                                     <div class="chat-avatar">
-                                                        <img src="../../assets/images/users/img4.jpg" alt="male" width="43">
+                                                        <img src="../assets/images/users/img4.jpg" alt="male" width="43">
                                                     </div>
                                                     <div class="conversation-text">
                                                         <div class="msg-text">
@@ -1357,7 +1357,7 @@
                                                 </li>
                                                 <li class="clearfix odd">
                                                     <div class="chat-avatar">
-                                                        <img src="../../assets/images/users/img3.jpg" alt="female" width="43">
+                                                        <img src="../assets/images/users/img3.jpg" alt="female" width="43">
                                                     </div>
                                                     <div class="conversation-text">
                                                         <div class="msg-text">
@@ -1920,7 +1920,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image" />
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image" />
                                             </div>
                                         </div>
                                         <div>
@@ -1931,7 +1931,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/users/img3.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/users/img3.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -1942,7 +1942,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/users/img2.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/users/img2.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -1953,7 +1953,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/users/img5.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/users/img5.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -1964,7 +1964,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -1975,7 +1975,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -1986,7 +1986,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -1997,7 +1997,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2008,7 +2008,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2019,7 +2019,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2043,7 +2043,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2054,7 +2054,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/users/img2.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/users/img2.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2065,7 +2065,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/users/img3.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/users/img3.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2076,7 +2076,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/users/img4.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/users/img4.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2087,7 +2087,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/users/img5.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/users/img5.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2098,7 +2098,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/users/img4.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/users/img4.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2109,7 +2109,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2120,7 +2120,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2131,7 +2131,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2142,7 +2142,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2153,7 +2153,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2164,7 +2164,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2175,7 +2175,7 @@
                                     <li>
                                         <div class="pull-left thumbnail-hover">
                                             <div class="overflow-hidden">
-                                                <img src="../../assets/images/profile.jpg" width="80" alt="image"/>
+                                                <img src="../assets/images/profile.jpg" width="80" alt="image"/>
                                             </div>
                                         </div>
                                         <div>
@@ -2264,63 +2264,63 @@
     # You can uncomment the following libraries commented and comment the global-plugins.js but it will may cause slow performance of the template because of many links should be load from the server.
     #
     ##################################################################################-->
-    <script src="../../assets/js/global-plugins.js"></script>
-    <!-- <script src="../../assets/js/jquery.js"></script> -->
-    <!-- <script src="../../assets/js/jquery-migrate-1.2.1.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery.cookie/jquery.cookie.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery-ui/jquery-ui.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery-easing/jquery.easing.1.3.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap/js/bootstrap.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery/dcjqaccordion.2.7.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery/scrollTo.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery/slimscroll.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery/nicescroll.js"></script> -->
-    <!-- <script src="../../assets/vendors/progressbar/bootstrap-progressbar.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/counter/waypoints.min.js" type="text/javascript" ></script> -->
-    <!-- <script src="../../assets/vendors/counter/jquery.counterup.min.js" type="text/javascript" ></script> -->
-    <!-- <script src="../../assets/vendors/jquery-icheck/icheck.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-datepicker/js/bootstrap-datepicker.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-timepicker/js/bootstrap-timepicker.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-colorpicker/js/bootstrap-colorpicker.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-tagsinput/bootstrap-tagsinput.js"></script> -->
-    <!-- <script src="../../assets/vendors/summernote/summernote.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery.autosize/jquery.autosize.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery.multi-select/js/jquery.multi-select.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery.multi-select/js/jquery.quicksearch.js"></script> -->
-    <!-- <script src="../../assets/vendors/typeahead/js/typeahead.bundle.js"></script> -->
-    <!-- <script src="../../assets/vendors/typeahead/js/handlebars.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/perfect-scrollbar/js/perfect-scrollbar.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/select2/select2.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-star-rating/js/star-rating.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-fileupload/js/bootstrap-fileupload.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-inputmask/bootstrap-inputmask.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/jquery.validate/jquery.validate.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-wizard/jquery.bootstrap.wizard.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/dropzone/dropzone.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/plupload/js/plupload.full.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/plupload/js/jquery.plupload.queue/jquery.plupload.queue.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/x-editable/bootstrap3-editable/js/bootstrap-editable.js"></script> -->
-    <!-- <script src="../../assets/vendors/x-editable/inputs-ext/address/address.js"></script> -->
-    <!-- <script src="../../assets/vendors/x-editable/inputs-ext/typeaheadjs/typeaheadjs.js"></script> -->
-    <!-- <script src="../../assets/vendors/owl-carousel/owl.carousel.js"></script> -->
-    <!-- <script src="../../assets/vendors/magnific-popup/js/jquery.magnific-popup.js"></script> -->
-    <!-- <script src="../../assets/vendors/masonry/masonry.pkgd.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/moment.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/raphael-min.js" charset="utf-8" ></script> -->
-    <!-- <script src="../../assets/vendors/sweetalert/sweetalert.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/word-rotator/jquery.wordrotator.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/wow-animations/js/wow.min.js"></script> -->
-    <!-- <script src="../../assets/vendors/rwd-table/js/rwd-table.min.js?v=5.0.3"></script> -->
-    <!-- <script src="../../assets/vendors/jqueryui.sortable.animation/jquery.ui.sortable-animation.js"></script> -->
-    <!-- <script src="../../assets/vendors/tooltipster/js/jquery.tooltipster.js" type="text/javascript" ></script> -->
-    <!-- <script src="../../assets/vendors/dropdowns-enhancement/js/dropdowns-enhancement.min.js" type="text/javascript"></script> -->
-    <!-- <script src="../../assets/vendors/jquery-notific8/jquery.notific8.js" type="text/javascript"></script> -->
-    <!-- <script src="../../assets/vendors/date.js"></script> -->
-    <!-- <script src="../../assets/vendors/pogo-slider/js/jquery.pogo-slider.min.js" type="text/javascript" ></script> -->
-    <!-- <script src="../../assets/vendors/bootstrap-daterangepicker/daterangepicker.js" type="text/javascript" ></script> -->
+    <script src="../assets/js/global-plugins.js"></script>
+    <!-- <script src="../assets/js/jquery.js"></script> -->
+    <!-- <script src="../assets/js/jquery-migrate-1.2.1.min.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery.cookie/jquery.cookie.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery-ui/jquery-ui.min.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery-easing/jquery.easing.1.3.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap/js/bootstrap.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery/dcjqaccordion.2.7.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery/scrollTo.min.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery/slimscroll.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery/nicescroll.js"></script> -->
+    <!-- <script src="../assets/vendors/progressbar/bootstrap-progressbar.min.js"></script> -->
+    <!-- <script src="../assets/vendors/counter/waypoints.min.js" type="text/javascript" ></script> -->
+    <!-- <script src="../assets/vendors/counter/jquery.counterup.min.js" type="text/javascript" ></script> -->
+    <!-- <script src="../assets/vendors/jquery-icheck/icheck.min.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-datepicker/js/bootstrap-datepicker.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-timepicker/js/bootstrap-timepicker.min.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-colorpicker/js/bootstrap-colorpicker.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-tagsinput/bootstrap-tagsinput.js"></script> -->
+    <!-- <script src="../assets/vendors/summernote/summernote.min.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery.autosize/jquery.autosize.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery.multi-select/js/jquery.multi-select.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery.multi-select/js/jquery.quicksearch.js"></script> -->
+    <!-- <script src="../assets/vendors/typeahead/js/typeahead.bundle.js"></script> -->
+    <!-- <script src="../assets/vendors/typeahead/js/handlebars.min.js"></script> -->
+    <!-- <script src="../assets/vendors/perfect-scrollbar/js/perfect-scrollbar.min.js"></script> -->
+    <!-- <script src="../assets/vendors/select2/select2.min.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-star-rating/js/star-rating.min.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-fileupload/js/bootstrap-fileupload.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-inputmask/bootstrap-inputmask.min.js"></script> -->
+    <!-- <script src="../assets/vendors/jquery.validate/jquery.validate.min.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-wizard/jquery.bootstrap.wizard.min.js"></script> -->
+    <!-- <script src="../assets/vendors/dropzone/dropzone.min.js"></script> -->
+    <!-- <script src="../assets/vendors/plupload/js/plupload.full.min.js"></script> -->
+    <!-- <script src="../assets/vendors/plupload/js/jquery.plupload.queue/jquery.plupload.queue.min.js"></script> -->
+    <!-- <script src="../assets/vendors/x-editable/bootstrap3-editable/js/bootstrap-editable.js"></script> -->
+    <!-- <script src="../assets/vendors/x-editable/inputs-ext/address/address.js"></script> -->
+    <!-- <script src="../assets/vendors/x-editable/inputs-ext/typeaheadjs/typeaheadjs.js"></script> -->
+    <!-- <script src="../assets/vendors/owl-carousel/owl.carousel.js"></script> -->
+    <!-- <script src="../assets/vendors/magnific-popup/js/jquery.magnific-popup.js"></script> -->
+    <!-- <script src="../assets/vendors/masonry/masonry.pkgd.min.js"></script> -->
+    <!-- <script src="../assets/vendors/moment.min.js"></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js"></script> -->
+    <!-- <script src="../assets/vendors/raphael-min.js" charset="utf-8" ></script> -->
+    <!-- <script src="../assets/vendors/sweetalert/sweetalert.min.js"></script> -->
+    <!-- <script src="../assets/vendors/word-rotator/jquery.wordrotator.min.js"></script> -->
+    <!-- <script src="../assets/vendors/wow-animations/js/wow.min.js"></script> -->
+    <!-- <script src="../assets/vendors/rwd-table/js/rwd-table.min.js?v=5.0.3"></script> -->
+    <!-- <script src="../assets/vendors/jqueryui.sortable.animation/jquery.ui.sortable-animation.js"></script> -->
+    <!-- <script src="../assets/vendors/tooltipster/js/jquery.tooltipster.js" type="text/javascript" ></script> -->
+    <!-- <script src="../assets/vendors/dropdowns-enhancement/js/dropdowns-enhancement.min.js" type="text/javascript"></script> -->
+    <!-- <script src="../assets/vendors/jquery-notific8/jquery.notific8.js" type="text/javascript"></script> -->
+    <!-- <script src="../assets/vendors/date.js"></script> -->
+    <!-- <script src="../assets/vendors/pogo-slider/js/jquery.pogo-slider.min.js" type="text/javascript" ></script> -->
+    <!-- <script src="../assets/vendors/bootstrap-daterangepicker/daterangepicker.js" type="text/javascript" ></script> -->
     <!-- <script src="../../vendors/nestable/jquery.nestable.js" type="text/javascript" ></script> -->
-    <!-- <script src="../../assets/vendors/bstooltip/bstooltip.js"></script> -->
+    <!-- <script src="../assets/vendors/bstooltip/bstooltip.js"></script> -->
 
     <!--##################################################################################
     #
@@ -2328,28 +2328,28 @@
     #
     ##################################################################################-->
     <!-- Chart JS -->
-    <script src="../../assets/vendors/chartjs/chart.min.js"></script>
+    <script src="../assets/vendors/chartjs/chart.min.js"></script>
     <!--jQuery Flot Chart-->
-    <script src="../../assets/vendors/flot/jquery.flot.full.min.js" type="text/javascript"></script>
+    <script src="../assets/vendors/flot/jquery.flot.full.min.js" type="text/javascript"></script>
     <!--jQuery Ricksaw Chart-->
-    <script src="../../assets/vendors/jquery-ricksaw-chart/js/rickshaw.min.js" type="text/javascript" ></script>
-    <script src="../../assets/vendors/jquery-ricksaw-chart/js/d3.v2.js" type="text/javascript" ></script>
+    <script src="../assets/vendors/jquery-ricksaw-chart/js/rickshaw.min.js" type="text/javascript" ></script>
+    <script src="../assets/vendors/jquery-ricksaw-chart/js/d3.v2.js" type="text/javascript" ></script>
     <!-- Easy Pie JS -->
-    <script src="../../assets/vendors/easypie/jquery.easypiechart.min.js"></script>
+    <script src="../assets/vendors/easypie/jquery.easypiechart.min.js"></script>
     <!--Sparkline JS-->
-    <script src="../../assets/vendors/sparkline/index.js"></script>
+    <script src="../assets/vendors/sparkline/index.js"></script>
     <!--Morris Chart-->
-    <script src="../../assets/vendors/morris-chart/morris.min.js"></script>
+    <script src="../assets/vendors/morris-chart/morris.min.js"></script>
     <!--Skycons JS-->
-    <script src="../../assets/vendors/skycons/skycons.js"></script>
+    <script src="../assets/vendors/skycons/skycons.js"></script>
     <!-- World Map JS -->
-    <script src="../../assets/vendors/maps/js/jquery-jvectormap-2.0.1.min.js" type="text/javascript" ></script>
-    <script src="../../assets/vendors/maps/js/gdp-data.js" type="text/javascript" ></script>
-    <script src="../../assets/vendors/maps/js/jquery-jvectormap-world-mill-en.js" type="text/javascript" ></script>
-    <script src="../../assets/vendors/maps/js/jquery-jvectormap-us-aea-en.js" type="text/javascript" ></script>
-    <script src="../../assets/vendors/video-js/video.js"></script>
+    <script src="../assets/vendors/maps/js/jquery-jvectormap-2.0.1.min.js" type="text/javascript" ></script>
+    <script src="../assets/vendors/maps/js/gdp-data.js" type="text/javascript" ></script>
+    <script src="../assets/vendors/maps/js/jquery-jvectormap-world-mill-en.js" type="text/javascript" ></script>
+    <script src="../assets/vendors/maps/js/jquery-jvectormap-us-aea-en.js" type="text/javascript" ></script>
+    <script src="../assets/vendors/video-js/video.js"></script>
     <script>
-        videojs.options.flash.swf = "../../assets/vendors/video-js/video-js.swf";
+        videojs.options.flash.swf = "../assets/vendors/video-js/video-js.swf";
     </script>
 
 
@@ -2359,11 +2359,11 @@
     #
     ##################################################################################-->
     <!--common script init for all pages-->
-    <script src="../../assets/js/theme.js" type="text/javascript" ></script>
+    <script src="../assets/js/theme.js" type="text/javascript" ></script>
 
     <!--script for this page-->
-    <script src="../../assets/js/dashboard-green.js" type="text/javascript" ></script>
-    <script src="../../assets/js/forms.js" type="text/javascript" ></script>
+    <script src="../assets/js/dashboard-green.js" type="text/javascript" ></script>
+    <script src="../assets/js/forms.js" type="text/javascript" ></script>
 
     <script type="text/javascript">
 
