@@ -59,6 +59,7 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 </head>
+
 <body id="default-scheme" class="form-background">
 
     <!--main content start-->
@@ -68,18 +69,23 @@
         <!--======== START LOGIN ========-->
         <div class="row page-login">
 
-            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2"> 
+            <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
 
                 <div class="form-body bg-white padding-20">
                     <div class="row">
                         <div class="col-md-8">
 
                             <div class="form-header bg-white padding-10 text-center">
-                                <h2><strong>Acesso</strong> a sua conta</h2>
-                                <p>Ainda não Registrado? Clique <a href="page-registration.php" class="color-green">aqui</a> e Registre-se.</p>                    
+                                <h2><strong>Registre</strong> sua conta</h2>
+                                <p>Já tem conta? Clique <a href="index.php" class="color-green">aqui</a> para acessar.</p>                    
                             </div>
 
-                            <form action="../index.html">
+                            <form>
+                                <div class="inner-addon right-addon margin-bottom-15">
+                                    <i class="fa fa-user"></i>
+                                    <input type="text" class="form-control" placeholder="Username" />
+                                </div>
+
                                 <div class="inner-addon right-addon margin-bottom-15">
                                     <i class="fa fa-envelope"></i>
                                     <input type="text" class="form-control" placeholder="Email" />
@@ -89,18 +95,25 @@
                                     <i class="fa fa-lock"></i>
                                     <input type="password" class="form-control" placeholder="Senha" />
                                 </div>
+                                <div class="inner-addon right-addon margin-bottom-15">
+                                    <i class="fa fa-key"></i>
+                                    <input type="password" class="form-control" placeholder="Confirmação de Senha" />
+                                </div>
                                 <div class="row">
                                     <div class="col-md-6 text-center">
                                         <div class="checkbox">
                                             <label>
-                                                <input type="checkbox" class="icheck-aero"> Lembrar-me
+                                                <input type="checkbox" class="icheck-aero"> Concordo com os <a href="#">Termos e Condições</a>
                                             </label>
                                         </div>
                                     </div>
                                     <div class="col-md-6 text-center">
-                                        <button type="submit" class="btn btn-green btn-raised btn-flat">Acessar Conta</button>
+                                        <button type="submit" class="btn btn-green btn-raised btn-flat">Registrar</button>
                                     </div>
                                 </div>
+                                
+                                
+                                
                             </form>
 
                         </div><!--/col-md-6-->
