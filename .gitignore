@@ -4,3 +4,10 @@
 \.ftpquota
 
 README\.md
+<<<<<<< HEAD
+=======
+
+\.buildpath
+
+\.project
+>>>>>>> trunk
