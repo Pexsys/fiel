@@ -1,0 +1,7 @@
+{
+	"require-dev" : {
+		"adodb/adodb-php" : "^5.20",
+		"tecnickcom/tcpdf" : "^6.2",
+		"phpmailer/phpmailer" : "^6.0"
+	}
+}
