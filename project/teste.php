@@ -7,7 +7,7 @@ ini_set('display_startup_errors', TRUE);
 
 use project\database\ENTITY;
 
-$pessoa = ENTITY::instance("PESSOA");
+$pessoa = ENTITY::instance("CD_PESSOA");
 $pessoa->insert(array("nm"=>"teste","email"=>"teste@teste.com.br"));
 $id = $pessoa->Insert_ID();
 
